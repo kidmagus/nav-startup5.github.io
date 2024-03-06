@@ -1,0 +1,72 @@
+body {
+    
+      font-family: "DM Sans", sans-serif;
+      color:  #1E0E62;
+     
+
+}
+
+
+
+
+.header-title{
+    display: flex;
+    position: absolute;
+    top: 41px;
+    left: 115px;
+   
+    
+}
+
+
+
+.title {
+    width: 111px;
+    height: 19px;
+    font-weight: bolder;
+
+font-size: 24px;
+line-height: 31px;
+letter-spacing: -0.2926828861236572px;
+text-align: center;
+
+}
+
+
+.nav-menu {
+    display: flex;
+    position: absolute;
+    justify-content: space-around;
+    width: 242px;
+    height: 26px;
+    top: 38.4px;
+    left: 1141px;
+    margin-top: 20px;
+
+}
+
+.nav-menu p {
+    font-size: 16px;
+    line-height: 26px;
+    
+}
+
+.features {
+    width: 64px;
+    height: 26px;
+ 
+}
+
+.pricing {
+    width: 50px;
+    height: 26px;
+    
+
+}
+
+.about {
+    width: 46px;
+    height: 26px;
+    
+
+}
